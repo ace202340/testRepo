@@ -1,6 +1,5 @@
 this is a test file
 new value
-this is a new line
-this is a new trest
+
 test1
 test2
