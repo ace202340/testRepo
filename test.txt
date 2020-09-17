@@ -2,3 +2,4 @@ this is a test file
 new value
 this is a new line
 branch1
+branch2
