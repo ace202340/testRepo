@@ -4,6 +4,9 @@ foobar
 test1
 test2
 blah
+bar
 blah
 blah
 blah
+bar
+bar
