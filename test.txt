@@ -3,6 +3,7 @@ new value
 foobar
 test1
 test2
+foo
 blah
 bar
 blah
@@ -10,3 +11,5 @@ blah
 blah
 bar
 bar
+foo
+foo
