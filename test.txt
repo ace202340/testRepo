@@ -7,9 +7,6 @@ foo
 blah
 bar
 blah
-blah
-blah
-bar
-bar
+b
 foo
 foo
