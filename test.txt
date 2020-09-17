@@ -3,4 +3,5 @@ new value
 this is a new line
 branch1
 branch2
+branch1_2
 branch1_1
