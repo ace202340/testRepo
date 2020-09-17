@@ -1,6 +1,6 @@
 this is a test file
 new value
-
+foobar
 test1
 test2
 s
