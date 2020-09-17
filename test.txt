@@ -1,17 +1,2 @@
 this is a test file
-new value
-foobar
-test1
-test2
-foo
-blah
-blah
-blah
-blah
-foo
-foo
-s
-s
-s
 
-ss
