@@ -1,2 +1,13 @@
 this is a test file
+new value
+foobar
+test1
+test2
+foo
+blah
+bar
+blah
+b
+foo
+foo
 
